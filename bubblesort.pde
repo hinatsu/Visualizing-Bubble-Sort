@@ -11,12 +11,6 @@ void setup() {
   }
 }
 
-//  for (int i = 0; i < values.length; i++) {
-//    for (int j = 0; j < values.length-i-1; j++) {
-//    }
-//  }
-//}
-
 void draw() {
   background(0);
 
